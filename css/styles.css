@@ -211,6 +211,7 @@ section {
   background-color: #d7d7d7; }
   .club-info .container {
     margin: 50px 5%;
+    width: 90%;
     max-width: 600px;
     padding: 15px 20px;
     display: inline-block;
@@ -226,6 +227,7 @@ section {
   .club-info .club-details li {
     line-height: 1.2; }
   .club-info .club-details iframe {
+    width: 100%;
     margin: 10px auto; }
 
 .events .event {
