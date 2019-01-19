@@ -210,8 +210,8 @@ section {
 .club-info {
   background-color: #d7d7d7; }
   .club-info .container {
-    margin: 50px 15px;
-    width: unset;
+    margin: 50px 5%;
+    max-width: 600px;
     padding: 15px 20px;
     display: inline-block;
     background-color: #fff;
